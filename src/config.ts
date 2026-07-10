@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Rachit Panchal",
-  title: "Student at Emerald High School (Rachit)",
+  title: "Student at Emerald High School",
 
   description: "Portfolio website of Rachit Panchal",
   accentColor: "#1d4ed8",
